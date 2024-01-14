@@ -103,19 +103,19 @@
 // 16, 8 => да
 // 4, 3 => нет, 1
 
-void cratnost(int num1, int num2)
-{
-    if(num1%num2==0)
-    {
-        System.Console.WriteLine($"{num2} кратно {num1}");
-    }
-    else
-    {
-        System.Console.WriteLine($"остаток от деления {num1} на {num2} = {num1%num2}");
-    }
-}
+// void cratnost(int num1, int num2)
+// {
+//     if(num1%num2==0)
+//     {
+//         System.Console.WriteLine($"{num2} кратно {num1}");
+//     }
+//     else
+//     {
+//         System.Console.WriteLine($"остаток от деления {num1} на {num2} = {num1%num2}");
+//     }
+// }
 
-System.Console.WriteLine("Input number: ");
-int number1 = Convert.ToInt32(Console.ReadLine());
-int number2 = Convert.ToInt32(Console.ReadLine());
-cratnost(number1,number2);
+// System.Console.WriteLine("Input number: ");
+// int number1 = Convert.ToInt32(Console.ReadLine());
+// int number2 = Convert.ToInt32(Console.ReadLine());
+// cratnost(number1,number2);
