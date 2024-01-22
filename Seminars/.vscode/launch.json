@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C#: sem1",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\sem1\\sem1.csproj",
+            "launchConfigurationId": "TargetFramework=;sem1"
+        }
+    ]
+}
