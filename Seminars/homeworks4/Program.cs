@@ -68,3 +68,64 @@
 // int[] array = CreateRandomArray(size);
 // PrintArray(array);
 // EvenToArray(array);
+
+
+
+
+// Задача 3: Напишите программу, которая перевернёт одномерный массив 
+// (первый элемент станет последним, второй – предпоследним и т.д.)
+
+// int[] CreateRandomArray(int size, int min, int max)
+// {
+
+//     int[] array = new int[size];
+
+//     for (int i = 0; i < size; i++)
+//     {
+//         array[i] = new Random().Next(min, max + 1);
+//     }
+
+//     return array;
+// }
+
+// int[] ReverseArray(int[] array)
+// {
+//     int[] newArray = new int[array.Length];
+//     for (int i = 0; i < array.Length; i++)
+//     {
+//         newArray[i] = array[array.Length - i - 1];
+//     }
+//     return newArray;
+// }
+
+// void PrintArray(int[] array)
+// {
+//     System.Console.Write("Массив: ");
+//     for (int i = 0; i < array.Length; i++)
+//     {
+//         System.Console.Write(array[i] + " ");
+//     }
+//     System.Console.WriteLine();
+// }
+
+// void PrintArrayReverse(int[] array)
+// {
+//     System.Console.Write("Обратный массив: ");
+//     for (int i = 0; i < array.Length; i++)
+//     {
+//         System.Console.Write(array[i] + " ");
+//     }
+//     System.Console.WriteLine();
+// }
+
+
+// System.Console.WriteLine("Введите размер массива: ");
+// int size = Convert.ToInt32(Console.ReadLine());
+// System.Console.WriteLine("Введите минимальное значение: ");
+// int min = Convert.ToInt32(Console.ReadLine());
+// System.Console.WriteLine("Введите максимальное значение: ");
+// int max = Convert.ToInt32(Console.ReadLine());
+// int[] array = CreateRandomArray(size, min, max);
+// PrintArray(array);
+// int[] newArray = ReverseArray(array);
+// PrintArrayReverse(newArray);
