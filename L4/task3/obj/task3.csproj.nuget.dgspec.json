@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Пользователь\\Desktop\\Учёба\\Знакомство с языками програмирования\\L4\\task1\\L4.csproj": {}
+    "C:\\Users\\Пользователь\\Desktop\\Учёба\\Знакомство с языками програмирования\\L4\\task3\\task3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Пользователь\\Desktop\\Учёба\\Знакомство с языками програмирования\\L4\\task1\\L4.csproj": {
+    "C:\\Users\\Пользователь\\Desktop\\Учёба\\Знакомство с языками програмирования\\L4\\task3\\task3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Пользователь\\Desktop\\Учёба\\Знакомство с языками програмирования\\L4\\task1\\L4.csproj",
-        "projectName": "L4",
-        "projectPath": "C:\\Users\\Пользователь\\Desktop\\Учёба\\Знакомство с языками програмирования\\L4\\task1\\L4.csproj",
+        "projectUniqueName": "C:\\Users\\Пользователь\\Desktop\\Учёба\\Знакомство с языками програмирования\\L4\\task3\\task3.csproj",
+        "projectName": "task3",
+        "projectPath": "C:\\Users\\Пользователь\\Desktop\\Учёба\\Знакомство с языками програмирования\\L4\\task3\\task3.csproj",
         "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Пользователь\\Desktop\\Учёба\\Знакомство с языками програмирования\\L4\\task1\\obj\\",
+        "outputPath": "C:\\Users\\Пользователь\\Desktop\\Учёба\\Знакомство с языками програмирования\\L4\\task3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config"
