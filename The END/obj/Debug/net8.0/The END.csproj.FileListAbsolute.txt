@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Учёба\Знакомство с языками програмирования\The END\obj\Debug\net8.0\The END.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Учёба\Знакомство с языками програмирования\The END\obj\Debug\net8.0\The END.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Учёба\Знакомство с языками програмирования\The END\obj\Debug\net8.0\The END.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Учёба\Знакомство с языками програмирования\The END\obj\Debug\net8.0\The END.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Учёба\Знакомство с языками програмирования\The END\obj\Debug\net8.0\The END.sourcelink.json
+C:\Users\Пользователь\Desktop\Учёба\Знакомство с языками програмирования\The END\bin\Debug\net8.0\The END.exe
+C:\Users\Пользователь\Desktop\Учёба\Знакомство с языками програмирования\The END\bin\Debug\net8.0\The END.deps.json
+C:\Users\Пользователь\Desktop\Учёба\Знакомство с языками програмирования\The END\bin\Debug\net8.0\The END.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Учёба\Знакомство с языками програмирования\The END\bin\Debug\net8.0\The END.dll
+C:\Users\Пользователь\Desktop\Учёба\Знакомство с языками програмирования\The END\bin\Debug\net8.0\The END.pdb
+C:\Users\Пользователь\Desktop\Учёба\Знакомство с языками програмирования\The END\obj\Debug\net8.0\The END.dll
+C:\Users\Пользователь\Desktop\Учёба\Знакомство с языками програмирования\The END\obj\Debug\net8.0\refint\The END.dll
+C:\Users\Пользователь\Desktop\Учёба\Знакомство с языками програмирования\The END\obj\Debug\net8.0\The END.pdb
+C:\Users\Пользователь\Desktop\Учёба\Знакомство с языками програмирования\The END\obj\Debug\net8.0\The END.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Учёба\Знакомство с языками програмирования\The END\obj\Debug\net8.0\ref\The END.dll
