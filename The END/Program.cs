@@ -25,36 +25,20 @@
 //  с помощью рекурсии. Даны два неотрицательных числа m и n.
 
 
-// System.Console.WriteLine("Задайте число m: ");
+
+// int Akkerman(int m, int n)
+// {
+//     if (m==0) return n+1;
+//     else if (n==0) return Akkerman(m-1,1);
+//     else return Akkerman(m-1, Akkerman(m, n-1));
+// }
+
+
+// System.Console.Write("Задайте число m: ");
 // int m = int.Parse(Console.ReadLine());
-// System.Console.WriteLine("Задайте число n: ");
+// System.Console.Write("Задайте число n: ");
 // int n = int.Parse(Console.ReadLine());
-// System.Console.WriteLine(Akkerman(m, n));
-
-// int Akkerman(int m, int n)
-// {
-//     if (m==0) return n+1;
-//     if (m>0)
-//     {
-//         return (n+2) + Akkerman(m-1,n);
-//     }
-//     return 0;
-// }
-
-
-
-// int Akkerman(int m, int n)
-// {
-//     if (m==0) return n+1;
-//     if (m>0)
-//     {
-//         for (int i = 0; i < n+2; i++)
-//         {
-//             return Akkerman(m-1,n);
-//         };
-//     }
-//     return n;
-// }
+// System.Console.Write($"Функция Аккермана с переменными m={m} и n={n} равна {Akkerman(m, n)}");
 
 
 // Задача 3: Задайте произвольный массив.
